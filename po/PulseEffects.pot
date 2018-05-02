@@ -9,159 +9,159 @@ msgstr ""
 "Project-Id-Version: PulseEffects\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-20 18:43-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-04-02 02:00+0200\n"
+"Last-Translator: anwar AL_iskandrany <anwareleskndrany13@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language:ar_EG\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: PulseEffects/ui/about.glade:11
 msgid "Audio Effects for Pulseaudio Applications"
-msgstr ""
+msgstr "Pulseaudio التأثيرات الصوتية لتطبيقات"
 
 #: PulseEffects/ui/app_info.glade:48
 msgid "Format"
-msgstr ""
+msgstr "التنسيق"
 
 #: PulseEffects/ui/app_info.glade:75
 msgid "Rate"
-msgstr ""
+msgstr "المعدل"
 
 #: PulseEffects/ui/app_info.glade:102
 msgid "Channels"
-msgstr ""
+msgstr "القنوات"
 
 #: PulseEffects/ui/app_info.glade:129
 msgid "Resampler"
-msgstr ""
+msgstr "إعادة العينة"
 
 #: PulseEffects/ui/app_info.glade:156 PulseEffects/ui/main_ui.glade:692
 #: PulseEffects/ui/main_ui.glade:768
 msgid "Buffer"
-msgstr ""
+msgstr "المخزن المؤقت"
 
 #: PulseEffects/ui/app_info.glade:183 PulseEffects/ui/main_ui.glade:705
 #: PulseEffects/ui/main_ui.glade:781
 msgid "Latency"
-msgstr ""
+msgstr "الإستجابة"
 
 #: PulseEffects/ui/app_info.glade:210
 msgid "State"
-msgstr ""
+msgstr "الحالة"
 
 #: PulseEffects/ui/bass_enhancer.glade:45
 msgid "Bass Enhancer"
-msgstr ""
+msgstr "محسن الجهير"
 
 #: PulseEffects/ui/bass_enhancer.glade:126 PulseEffects/ui/exciter.glade:126
 msgid "3rd"
-msgstr ""
+msgstr "3rd"
 
 #: PulseEffects/ui/bass_enhancer.glade:138 PulseEffects/ui/exciter.glade:138
 msgid "2nd"
-msgstr ""
+msgstr "2nd"
 
 #: PulseEffects/ui/bass_enhancer.glade:150 PulseEffects/ui/exciter.glade:150
 msgid "Blend Harmonics"
-msgstr ""
+msgstr "مزج التوافقيات"
 
 #: PulseEffects/ui/bass_enhancer.glade:182 PulseEffects/ui/exciter.glade:182
 msgid "Amount"
-msgstr ""
+msgstr "المقدار"
 
 #: PulseEffects/ui/bass_enhancer.glade:194
 #: PulseEffects/ui/bass_enhancer.glade:324 PulseEffects/ui/exciter.glade:194
 #: PulseEffects/ui/exciter.glade:322
 msgid "Harmonics"
-msgstr ""
+msgstr "التوافقيات"
 
 #: PulseEffects/ui/bass_enhancer.glade:206
 msgid "Floor"
-msgstr ""
+msgstr "الأرضية"
 
 #: PulseEffects/ui/bass_enhancer.glade:218 PulseEffects/ui/exciter.glade:218
 msgid "Scope"
-msgstr ""
+msgstr "النطاق"
 
 #: PulseEffects/ui/bass_enhancer.glade:417 PulseEffects/ui/equalizer.glade:1847
 #: PulseEffects/ui/exciter.glade:415 PulseEffects/ui/stereo_enhancer.glade:517
 #: PulseEffects/ui/stereo_spread.glade:300
 msgid "Input [dB]"
-msgstr ""
+msgstr "[dB] الإدخال"
 
 #: PulseEffects/ui/bass_enhancer.glade:449 PulseEffects/ui/equalizer.glade:1862
 #: PulseEffects/ui/exciter.glade:447 PulseEffects/ui/stereo_enhancer.glade:531
 #: PulseEffects/ui/stereo_spread.glade:314
 msgid "Output [dB]"
-msgstr ""
+msgstr "[dB] الإخراج"
 
 #: PulseEffects/ui/compressor.glade:27 PulseEffects/ui/webrtc.glade:525
 #: data/com.github.wwmm.pulseeffects.appdata.xml.in:52
 msgid "Compressor"
-msgstr ""
+msgstr "الضاغط"
 
 #: PulseEffects/ui/compressor.glade:115 PulseEffects/ui/deesser.glade:131
 #: PulseEffects/ui/gate.glade:116
 msgid "rms"
-msgstr ""
+msgstr "rms"
 
 #: PulseEffects/ui/compressor.glade:131 PulseEffects/ui/deesser.glade:148
 #: PulseEffects/ui/gate.glade:132
 msgid "peak"
-msgstr ""
+msgstr "ذروة"
 
 #: PulseEffects/ui/compressor.glade:151 PulseEffects/ui/deesser.glade:171
 #: PulseEffects/ui/gate.glade:152
 msgid "Detection"
-msgstr ""
+msgstr "كشف"
 
 #: PulseEffects/ui/compressor.glade:164 PulseEffects/ui/gate.glade:165
 msgid "Stereo Link"
-msgstr ""
+msgstr "رابط استريو"
 
 #: PulseEffects/ui/compressor.glade:174 PulseEffects/ui/gate.glade:175
 msgid "average"
-msgstr ""
+msgstr "متوسط"
 
 #: PulseEffects/ui/compressor.glade:190 PulseEffects/ui/gate.glade:191
 msgid "maximum"
-msgstr ""
+msgstr "أقصى"
 
 #: PulseEffects/ui/compressor.glade:210
 msgid "Mix"
-msgstr ""
+msgstr "مزج"
 
 #: PulseEffects/ui/compressor.glade:251 PulseEffects/ui/gate.glade:252
 msgid "Attack"
-msgstr ""
+msgstr "هجوم"
 
 #: PulseEffects/ui/compressor.glade:284 PulseEffects/ui/gate.glade:285
 #: PulseEffects/ui/limiter.glade:247 PulseEffects/ui/maximizer.glade:166
 #: PulseEffects/ui/output_limiter.glade:189
 msgid "Release"
-msgstr ""
+msgstr "تحرير"
 
 #: PulseEffects/ui/compressor.glade:318 PulseEffects/ui/deesser.glade:446
 #: PulseEffects/ui/gate.glade:319 PulseEffects/ui/limiter.glade:487
 #: PulseEffects/ui/maximizer.glade:81
 msgid "Threshold"
-msgstr ""
+msgstr "الحد"
 
 #: PulseEffects/ui/compressor.glade:348 PulseEffects/ui/deesser.glade:479
 #: PulseEffects/ui/gate.glade:349
 msgid "Ratio"
-msgstr ""
+msgstr "النسبة"
 
 #: PulseEffects/ui/compressor.glade:378 PulseEffects/ui/gate.glade:379
 msgid "Knee"
-msgstr ""
+msgstr "الركبه"
 
 #: PulseEffects/ui/compressor.glade:411 PulseEffects/ui/deesser.glade:510
 #: PulseEffects/ui/gate.glade:412
 msgid "Makeup"
-msgstr ""
+msgstr "التجميل"
 
 #: PulseEffects/ui/compressor.glade:465 PulseEffects/ui/crossfeed.glade:200
 #: PulseEffects/ui/deesser.glade:562 PulseEffects/ui/delay.glade:353
@@ -171,7 +171,7 @@ msgstr ""
 #: PulseEffects/ui/panorama.glade:122 PulseEffects/ui/pitch.glade:250
 #: PulseEffects/ui/reverb.glade:303 PulseEffects/ui/webrtc.glade:731
 msgid "Input"
-msgstr ""
+msgstr "إدخال"
 
 #: PulseEffects/ui/compressor.glade:480 PulseEffects/ui/crossfeed.glade:215
 #: PulseEffects/ui/deesser.glade:577 PulseEffects/ui/delay.glade:368
@@ -181,59 +181,59 @@ msgstr ""
 #: PulseEffects/ui/panorama.glade:137 PulseEffects/ui/pitch.glade:265
 #: PulseEffects/ui/reverb.glade:318 PulseEffects/ui/webrtc.glade:746
 msgid "Output"
-msgstr ""
+msgstr "إخراج"
 
 #: PulseEffects/ui/compressor.glade:645 PulseEffects/ui/gate.glade:646
 msgid "Reduction"
-msgstr ""
+msgstr "اختزال"
 
 #. for some reason when listbox is inside a scrolledwindow
 #. it autoselects a row at startup
 #: PulseEffects/ui/crossfeed.glade:46 PulseEffects/ui/main_ui.glade:102
 #: PulseEffects/ui/reverb.glade:90 PulseEffects/presets_manager.py:58
 msgid "Presets"
-msgstr ""
+msgstr "مسبقة"
 
 #: PulseEffects/ui/crossfeed.glade:58
 msgid "Jmeier"
-msgstr ""
+msgstr "Jmeier"
 
 #: PulseEffects/ui/crossfeed.glade:72
 msgid "Default"
-msgstr ""
+msgstr "افتراضي"
 
 #: PulseEffects/ui/crossfeed.glade:86
 msgid "Cmoy"
-msgstr ""
+msgstr "Cmoy"
 
 #: PulseEffects/ui/crossfeed.glade:122 PulseEffects/ui/highpass.glade:77
 #: PulseEffects/ui/lowpass.glade:77
 msgid "Cutoff"
-msgstr ""
+msgstr "اقطع"
 
 #: PulseEffects/ui/crossfeed.glade:154
 msgid "Feed"
-msgstr ""
+msgstr "تغذية"
 
 #: PulseEffects/ui/crossfeed.glade:379
 msgid "Crossfeed"
-msgstr ""
+msgstr "Crossfeed"
 
 #: PulseEffects/ui/deesser.glade:57
 msgid "Deesser"
-msgstr ""
+msgstr "Deesser"
 
 #: PulseEffects/ui/deesser.glade:185 PulseEffects/ui/webrtc.glade:389
 msgid "Mode"
-msgstr ""
+msgstr "الوضع"
 
 #: PulseEffects/ui/deesser.glade:195
 msgid "wide"
-msgstr ""
+msgstr "عريض"
 
 #: PulseEffects/ui/deesser.glade:213
 msgid "split"
-msgstr ""
+msgstr "تقسيم"
 
 #: PulseEffects/ui/deesser.glade:248
 msgid "F1"
@@ -241,7 +241,7 @@ msgstr ""
 
 #: PulseEffects/ui/deesser.glade:281
 msgid "F1 Level"
-msgstr ""
+msgstr "F1 مستوى"
 
 #: PulseEffects/ui/deesser.glade:314
 msgid "F2"
@@ -249,7 +249,7 @@ msgstr ""
 
 #: PulseEffects/ui/deesser.glade:367
 msgid "F2 Level"
-msgstr ""
+msgstr "F2 مستوى"
 
 #: PulseEffects/ui/deesser.glade:382
 msgid "F2 Q"
@@ -257,73 +257,73 @@ msgstr ""
 
 #: PulseEffects/ui/deesser.glade:414
 msgid "Laxity"
-msgstr ""
+msgstr "لين"
 
 #: PulseEffects/ui/deesser.glade:742 PulseEffects/ui/gate.glade:211
 msgid "Gain Reduction"
-msgstr ""
+msgstr "خفض الكسب"
 
 #: PulseEffects/ui/deesser.glade:755
 msgid "Detected"
-msgstr ""
+msgstr "كشف"
 
 #: PulseEffects/ui/delay.glade:23 PulseEffects/ui/delay.glade:274
 #: PulseEffects/ui/delay.glade:290 PulseEffects/ui/stereo_enhancer.glade:181
 #: PulseEffects/ui/stereo_enhancer.glade:352
 msgid "Delay"
-msgstr ""
+msgstr "التأخير"
 
 #: PulseEffects/ui/delay.glade:91 PulseEffects/ui/delay.glade:124
 msgid "Meters"
-msgstr ""
+msgstr "امتار"
 
 #: PulseEffects/ui/delay.glade:102 PulseEffects/ui/delay.glade:113
 msgid "Centimeters"
-msgstr ""
+msgstr "سنتيمترات"
 
 #: PulseEffects/ui/delay.glade:206 PulseEffects/ui/stereo_enhancer.glade:243
 #: PulseEffects/ui/stereo_enhancer.glade:446
 msgid "Left"
-msgstr ""
+msgstr "يسار"
 
 #: PulseEffects/ui/delay.glade:222 PulseEffects/ui/stereo_enhancer.glade:413
 #: PulseEffects/ui/stereo_enhancer.glade:447
 msgid "Right"
-msgstr ""
+msgstr "يمين"
 
 #: PulseEffects/ui/delay.glade:259
 msgid "Temperature"
-msgstr ""
+msgstr "الحرارة"
 
 #: PulseEffects/ui/equalizer.glade:350
 #: data/com.github.wwmm.pulseeffects.appdata.xml.in:44
 msgid "Equalizer"
-msgstr ""
+msgstr "المعادل"
 
 #: PulseEffects/ui/equalizer.glade:2030
 msgid "Flat Response"
-msgstr ""
+msgstr "رد مسطح"
 
 #: PulseEffects/ui/equalizer_band_menu.glade:24
 msgid "Peak"
-msgstr ""
+msgstr "ذروة"
 
 #: PulseEffects/ui/equalizer_band_menu.glade:27
 msgid "Low Shelf"
-msgstr ""
+msgstr "جرف منخفض"
 
 #: PulseEffects/ui/equalizer_band_menu.glade:30
 msgid "High Shelf"
-msgstr ""
+msgstr "جرف مرتفع"
 
 #: PulseEffects/ui/equalizer_band_menu.glade:53
 #: PulseEffectsTest/ui/test_signals.glade:158
 msgid "Frequency"
-msgstr ""
+msgstr "التردد"
 
 #: PulseEffects/ui/equalizer_band_menu.glade:66
 msgid "Quality"
-msgstr ""
+msgstr "الجودة"
 
 #: PulseEffects/ui/equalizer_band_menu.glade:116
 msgid "Reset Frequency"
